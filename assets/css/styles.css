@@ -1,0 +1,313 @@
+/* 
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(to right, #e2e2e2, #c9d6ff);
+    background-image: url(./assets/bg.jpg);
+}
+
+.container {
+    background: #fff;
+    width: 450px;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 20px 35px rgba(0, 0, 0, 0.1);
+}
+
+.logobox {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.logo {
+    max-width: 100%;
+    height: auto;
+}
+
+.formbox {
+    margin-top: 20px;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+.username, .email, .password {
+    margin-bottom: 1.5rem;
+    position: relative;
+}
+
+label {
+    color: #757575;
+    position: absolute;
+    left: 1.5em;
+    top: 10px; 
+    cursor: text;
+    transition: 0.3s;
+}
+
+input {
+    width: 100%;
+    padding: 10px 1.5rem;
+    border: none;
+    border-bottom: 1px solid #757575;
+    font-size: 15px;
+    margin-top: 20px;
+}
+
+input:focus {
+    outline: none;
+    border-bottom: 2px solid hsl(327, 90%, 28%);
+}
+
+input:focus + label,
+input:not(:placeholder-shown) + label {
+    top: -10px; 
+    font-size: 12px; 
+    color: hsl(327, 90%, 28%);
+}
+
+input::placeholder {
+    color: transparent;
+}
+
+.button {
+    margin-top: 1rem;
+}
+
+button {
+    font-size: 1.1rem;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    width: 100%;
+    background: rgb(125, 125, 235);
+    color: white;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+button:hover {
+    background: #07001f;
+}
+
+span {
+    
+    text-align: center;
+    margin-top: 1rem;
+}
+
+span a {
+    text-decoration: none;
+    color: rgb(125, 125, 235);
+}
+
+span a:hover {
+    color: blue;
+    text-decoration: underline;
+}
+
+.messageDiv {
+    background-color: hsl(327, 90%, 28%);
+    color: white;
+    padding: 10px 20px;
+    margin: 10px 0;
+    border-radius: 5px;
+    font-size: 1rem;
+    opacity: 0; 
+    animation: fadeOut 7s forwards;
+}
+
+@keyframes fadeOut {
+    to {
+        opacity: 0;
+    }
+}
+
+
+@media (max-width: 600px) {
+    .container {
+        width: 90%; 
+        padding: 1rem; 
+    }
+
+    input {
+        font-size: 14px; 
+    }
+
+    button {
+        font-size: 1rem; 
+    }
+}  
+  */
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(to right, #e2e2e2, #c9d6ff);
+    background-image: url(/assets/images/background.avif);
+    background-size: cover;
+}
+
+.container {
+    background: #fff;
+    width: 450px;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 20px 35px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.logobox {
+    margin-bottom: 20px;
+}
+
+.logo {
+    max-width: 100%;
+    height: auto;
+}
+
+.formbox {
+    margin-top: 20px;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+.username, .gender, .email, .password {
+    margin-bottom: 1.5rem;
+    position: relative;
+}
+
+label {
+    color: #757575;
+    position: absolute;
+    left: 1.5em;
+    top: 10px; 
+    cursor: text;
+    transition: 0.3s;
+}
+
+input, select {
+    width: 100%;
+    padding: 10px 1.5rem;
+    border: none;
+    border-bottom: 1px solid #757575;
+    font-size: 15px;
+    margin-top: 20px;
+}
+
+input:focus, select:focus {
+    outline: none;
+    border-bottom: 2px solid hsl(327, 90%, 28%);
+}
+
+input:focus + label,
+select:focus + label,
+input:not(:placeholder-shown) + label {
+    top: -10px; 
+    font-size: 12px; 
+    color: hsl(327, 90%, 28%);
+}
+
+input::placeholder {
+    color: transparent;
+}
+
+.button {
+    margin-top: 1rem;
+}
+
+button {
+    font-size: 1.1rem;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    width: 100%;
+    background: rgb(125, 125, 235);
+    color: white;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+button:hover {
+    background: #07001f;
+}
+
+span {
+    display: block; /* Block display for better alignment */
+    margin-top: 1rem;
+}
+
+span a {
+    text-decoration: none;
+    color: rgb(125, 125, 235);
+}
+
+span a:hover {
+    color: blue;
+    text-decoration: underline;
+}
+
+.messageDiv {
+    background-color: hsl(327, 90%, 28%);
+    color: white;
+    padding: 10px 20px;
+    margin: 10px 0;
+    border-radius: 5px;
+    font-size: 1rem;
+    opacity: 0; 
+    animation: fadeOut 7s forwards;
+}
+
+@keyframes fadeOut {
+    to {
+        opacity: 0;
+    }
+}
+
+@media (max-width: 600px) {
+    .container {
+        width: 90%; 
+        padding: 1rem; 
+    }
+
+    input, select {
+        font-size: 14px; 
+    }
+
+    button {
+        font-size: 1rem; 
+    }
+}

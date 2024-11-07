@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Firebase JSON Upload</title>
+  <script src="https://www.gstatic.com/firebasejs/9.0.0/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.0.0/firebase-firestore.js"></script>
+</head>
+<body>
+  <h1>Upload JSON to Firebase</h1>
+  <script type="module">
+    // Import Firebase SDKs for version 9 (modular syntax)
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/9.0.0/firebase-app.js";
+    import { getFirestore, collection, addDoc } from "https://www.gstatic.com/firebasejs/9.0.0/firebase-firestore.js";
+    // Firebase configuration
+    const firebaseConfig = {
+        apiKey: "AIzaSyAKctojCJ4kFYjFtN4kHkon9VTvPN0JoC4",
+  authDomain: "login-page-554fb.firebaseapp.com",
+  projectId: "login-page-554fb",
+  storageBucket: "login-page-554fb.appspot.com",
+  messagingSenderId: "128929903208",
+  appId: "1:128929903208:web:e44b89207ca4c8279081dd",
+  measurementId: "G-Z0G8VEY300"
+    };
+    // Initialize Firebase and Firestore
+    const app = initializeApp(firebaseConfig);
+    const db = getFirestore(app);
+    // Load JSON and Upload
+    async function loadJsonData() {
+      try {
+        const response = await fetch("./project.json");
+        const data = await response.json();
+        await uploadToFirestore(data);
+      } catch (error) {
+        console.error('Error loading JSON:', error);
+      }
+    }
+    async function uploadToFirestore(data) {
+      const collectionRef = collection(db, 'placeholder');  // Replace 'placeholder' with your collection name
+      for (const item of data) {
+        try {
+          await addDoc(collectionRef, item);
+          console.log('Document added:', item);
+        } catch (error) {
+          console.error('Error adding document:', error);
+        }
+      }
+    }
+    loadJsonData();
+  </script>
+</body>
+</html>

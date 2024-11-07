@@ -1,0 +1,842 @@
+[
+    {
+        "brand": "Adidas",
+        "product_name": "Cartoon Astronaut T-Shirts",
+        "ratings": 5,
+        "price": 92,
+        "gender": "Female",
+        "img": "image",
+        "sizes": ["S", "M", "XL", "XXL"]1
+    },
+    {
+        "brand": "Adidas",
+        "product_name": "Shirts",
+        "ratings": 5,
+        "price": 92,
+        "gender": "Female",
+        "img": "image",
+        "sizes": ["S", "M", "XL", "XXL"]2
+    },
+    {
+        "brand": "Mayil",
+        "product_name": "Kurtis",
+        "ratings": 5,
+        "price": 22,
+        "gender": "Female",
+        "img": "image",
+        "sizes": ["S", "M", "XL", "XXL"]3
+    },
+    {
+        "brand": "Pratibha",
+        "product_name": "Sarees",
+        "ratings": 5,
+        "price": 32,
+        "gender": "Female",
+        "img": "image"4
+    },
+    {
+        "brand": "Leriya",
+        "product_name": "Western",
+        "ratings": 5,
+        "price": 92,
+        "gender": "Female",
+        "img": "image",
+        "sizes": ["S", "M", "XL", "XXL"]5
+    },
+    {
+        "brand": "Smart",
+        "product_name": "Kids T-shirt",
+        "ratings": 5,
+        "price": 72,
+        "gender": "Male",
+        "img": "image",
+        "sizes": ["S", "M", "XL", "XXL"]6
+    },
+    {
+        "brand": "Lush",
+        "product_name": "Wedding Lehengas",
+        "ratings": 5,
+        "price": 58,
+        "gender": "Female",
+        "img": "image",
+        "sizes": ["S", "M", "XL", "XXL"]7
+    },
+    {
+        "brand": "Modern",
+        "product_name": "Kids Shirt",
+        "ratings": 5,
+        "price": 42,
+        "gender": "Male",
+        "img": "image",
+        "sizes": ["S", "M", "XL", "XXL"]8
+    },
+    {
+        "brand": "adidas",
+        "product_name": "cartoon Astronaunt T-shirts",
+        "ratings": 5,
+        "price": 92,
+        "gender": "Male",
+        "img": "image",
+        "sizes": ["S", "M", "XL", "XXL"]1
+    },
+    {  "brand": "Saara",
+        "product_name": "Saree",
+        "ratings": 5,
+        "price": 22,
+        "gender": "Female",
+        "img": "image"2
+    },
+    {
+        "brand": "Aarya",
+        "product_name": "Saree",
+        "ratings": 5,
+        "price": 42,
+        "gender": "Female",
+        "img": "image"3
+    },
+    {
+        "brand": "smartboy",
+        "product_name": "Shirt",
+        "ratings": 5,
+        "price": 52,
+        "gender": "male",
+        "img": "image",
+        "sizes": ["S", "M", "XL", "XXL"]4
+
+    },
+    {
+        "brand": "Girly",
+        "product_name": "Gown",
+        "ratings": 5,
+        "price": 22,
+        "gender": "Female",
+        "img": "image",
+        "sizes": ["S", "M", "XL", "XXL"]5
+    },
+    {
+        "brand": "Zaara",
+        "product_name": "Leggins",
+        "ratings": 5,
+        "price": 32,
+        "gender": "Female",
+        "img": "image",
+        "sizes": ["S", "M", "XL", "XXL"]6
+    },
+    {
+        "brand": "Zaara",
+        "product_name": "Skirts",
+        "ratings": 5,
+        "price": 48,
+        "gender": "Female",
+        "img": "image",
+        "sizes": ["S", "M", "XL", "XXL"]7
+    },
+    {
+        "brand": "loyal",
+        "product_name": "pant",
+        "ratings": 5,
+        "price": 53,
+        "gender": "Female",
+        "img": "image",
+        "sizes": ["S", "M", "XL", "XXL"]   8
+    },
+{
+        "brand": "adidas",
+        "product_name": "Cartoon Astronaut T-shirts",
+        "ratings": 5,
+        "price": 23,
+        "gender": "Male",
+        "img": "image",
+        "sizes": ["S", "M", "XL", "XXL"]   1
+        
+},
+{
+    "brand": "adidas",
+    "product_name": "shirts",
+    "ratings": 5,
+    "price": 63,
+    "gender": "Male",
+    "img": "image",
+    "sizes": ["S", "M", "XL", "XXL"]   2
+
+},
+{
+    "brand": "Boyzz",
+    "product_name": "Hoodie",
+    "ratings": 5,
+    "price": 73,
+    "gender": "Male",
+    "img": "image",
+    "sizes": ["S", "M", "XL", "XXL"]   3 
+},
+{
+    "brand": "Trends",
+    "product_name": "Shirts",
+    "ratings": 5,
+    "price": 53,
+    "gender": "Male",
+    "img": "image",
+    "sizes": ["S", "M", "XL", "XXL"]4
+},
+{
+    "brand": "Guys",
+    "product_name": "T-Shirts",
+    "ratings": 5,
+    "price": 63,
+    "gender": "Male",
+    "img": "image",
+    "sizes": ["S", "M", "XL", "XXL"]5
+
+},
+{
+    "brand": "Ramraj",
+    "product_name": "Shirt",
+    "ratings": 5,
+    "price": 33,
+    "gender": "Male",
+    "img": "image",
+    "sizes": ["S", "M", "XL", "XXL"]6
+
+},
+{
+    "brand": "Vikas",
+    "product_name": "T-Shirt",
+    "ratings": 5,
+    "price": 73,
+    "gender": "Male",
+    "img": "image",
+    "sizes": ["S", "M", "XL", "XXL"]7
+
+},
+{
+    "brand": "Boss",
+    "product_name": "pants",
+    "ratings": 5,
+    "price": 49,
+    "gender": "Male",
+    "img": "image",
+    "sizes": ["S", "M", "XL", "XXL"]8
+
+},
+{
+    "brand": "adidas",
+    "product_name": "Cartoon Astronaut T-shirts",
+    "ratings": 5,
+    "price": 23,
+    "gender": "Male",
+    "img": "image",
+    "sizes": ["S", "M", "XL", "XXL"]   1
+    
+},
+{
+"brand": "Amaze",
+"product_name": "Kurta",
+"ratings": 5,
+"price": 33,
+"gender": "Male",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]   2
+
+},
+{
+"brand": "Boyzz",
+"product_name": "Pants",
+"ratings": 5,
+"price": 48,
+"gender": "Male",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]   3 
+},
+{
+"brand": "Trends",
+"product_name": "T-Shirts",
+"ratings": 5,
+"price": 73,
+"gender": "Male",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]4
+},
+{
+"brand": "Mens trends",
+"product_name": "Hoodie",
+"ratings": 5,
+"price": 93,
+"gender": "Male",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]5
+
+},
+{
+"brand": "Ramraj",
+"product_name": "Dhoti",
+"ratings": 5,
+"price": 42,
+"gender": "Male",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]6
+
+},
+{
+"brand": "Vikkies",
+"product_name": "Checked shirt",
+"ratings": 5,
+"price": 45,
+"gender": "Male",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]7
+
+},
+{
+"brand": "Big-boss",
+"product_name": "Kurta",
+"ratings": 5,
+"price": 99,
+"gender": "Male",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]8
+
+},
+{
+    "brand": "Toyo",
+    "product_name": "Pant",
+    "ratings": 5,
+    "price": 34,
+    "gender": "Male",
+    "img": "image",
+    "sizes": ["S", "M", "XL", "XXL"]   1
+    
+},
+{
+"brand": "waist",
+"product_name": "Pant",
+"ratings": 5,
+"price": 73,
+"gender": "Male",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]   2
+
+},
+{
+"brand": "Trendz",
+"product_name": "Bottom wear",
+"ratings": 5,
+"price": 97,
+"gender": "Male",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]   3 
+},
+{
+"brand": "Traditional",
+"product_name": "Dhoti",
+"ratings": 5,
+"price": 43,
+"gender": "Male",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]4
+},
+{
+"brand": "Boat",
+"product_name": "Pants",
+"ratings": 5,
+"price": 36,
+"gender": "Male",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]5
+
+},
+{
+"brand": "Rams",
+"product_name": "Jeggings",
+"ratings": 5,
+"price": 32,
+"gender": "Male",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]6
+
+},
+{
+"brand": "Fashions",
+"product_name": "Shorts",
+"ratings": 5,
+"price": 90,
+"gender": "Male",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]7
+
+},
+{
+"brand": "Boss",
+"product_name": "Short pant",
+"ratings": 5,
+"price": 50,
+"gender": "Male",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]8
+},
+{
+    "brand": "yaashi",
+    "product_name": "Kurti",
+    "ratings": 5,
+    "price": 64,
+    "gender": "Female",
+    "img": "image",
+    "sizes": ["S", "M", "XL", "XXL"]   1
+    
+},
+{
+"brand": "Trendy cotton",
+"product_name": "Anarkali",
+"ratings": 5,
+"price": 23,
+"gender": "Female",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]   2
+
+},
+{
+"brand": "Swasti",
+"product_name": "Kurti",
+"ratings": 5,
+"price": 37,
+"gender": "Female",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]   3 
+},
+{
+"brand": "Jivika",
+"product_name": "cotton kurti",
+"ratings": 5,
+"price": 43,
+"gender": "Male",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]4
+},
+{
+"brand": "Bee trendy",
+"product_name": "Cotton frock",
+"ratings": 5,
+"price": 36,
+"gender": "Female",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]5
+
+},
+{
+"brand": "Banita",
+"product_name": "Long kurti",
+"ratings": 5,
+"price": 89,
+"gender": "Female",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]6
+
+},
+{
+"brand": "Fashionable",
+"product_name": "Western kurti",
+"ratings": 5,
+"price": 70,
+"gender": "Female",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]7
+
+},
+{
+"brand": "Jivika",
+"product_name": "Anarkali",
+"ratings": 5,
+"price": 40,
+"gender": "Female",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]8
+},
+{
+    "brand": "kashi",
+    "product_name": "Top",
+    "ratings": 5,
+    "price": 34,
+    "gender": "Female",
+    "img": "image",
+    "sizes": ["S", "M", "XL", "XXL"]   1
+    
+},
+{
+"brand": "Trend",
+"product_name": "Crop-top",
+"ratings": 5,
+"price": 53,
+"gender": "Female",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]   2
+
+},
+{
+"brand": "Look me",
+"product_name": "Party wear",
+"ratings": 5,
+"price": 67,
+"gender": "Female",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]   3 
+},
+{
+"brand": "Jivika",
+"product_name": "Shirt",
+"ratings": 5,
+"price": 73,
+"gender": "Male",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]4
+},
+{
+"brand": "Fashion",
+"product_name": "Office wear",
+"ratings": 5,
+"price": 36,
+"gender": "Female",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]5
+
+},
+{
+"brand": "Banita",
+"product_name": "Crop-top",
+"ratings": 5,
+"price": 45,
+"gender": "Female",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]6
+
+},
+{
+"brand": "Fashionable",
+"product_name": "Dresses",
+"ratings": 5,
+"price": 49,
+"gender": "Female",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]7
+
+},
+{
+"brand": "Girly",
+"product_name": "Classic wear",
+"ratings": 5,
+"price": 40,
+"gender": "Female",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]8
+},
+{
+    "brand": "Boyz",
+    "product_name": "Shirt",
+    "ratings": 5,
+    "price": 64,
+    "gender": "male",
+    "img": "image",
+    "sizes": ["S", "M", "XL", "XXL"]   1
+    
+},
+{
+"brand": "kids",
+"product_name": "shirt",
+"ratings": 5,
+"price": 57,
+"gender": "male",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]   2
+
+},
+{
+"brand": "Trends",
+"product_name": "T-shirt",
+"ratings": 5,
+"price": 27,
+"gender": "male",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]   3 
+},
+{
+"brand": "Fashion",
+"product_name": "Shirt",
+"ratings": 5,
+"price": 33,
+"gender": "Male",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]4
+},
+{
+"brand": "Smart boy",
+"product_name": "Kurta",
+"ratings": 5,
+"price": 73,
+"gender": "male",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]5
+
+},
+{
+"brand": "Kutties",
+"product_name": "Traditional",
+"ratings": 5,
+"price": 89,
+"gender": "Female",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]6
+
+},
+{
+"brand": "Fashionable",
+"product_name": "Hoodie",
+"ratings": 5,
+"price": 34,
+"gender": "male",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]7
+
+},
+{
+"brand": "Joyz",
+"product_name": "Shirt",
+"ratings": 5,
+"price": 39,
+"gender": "male",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]8
+},
+{
+    "brand": "Fashion",
+    "product_name": "Pants",
+    "ratings": 5,
+    "price": 34,
+    "gender": "male",
+    "img": "image",
+    "sizes": ["S", "M", "XL", "XXL"]   1
+    
+},
+{
+"brand": "Bluebrine",
+"product_name": "Trendy pant",
+"ratings": 5,
+"price": 72,
+"gender": "male",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]   2
+
+},
+{
+"brand": "Modern elegant Kids",
+"product_name": "Track pants",
+"ratings": 5,
+"price": 17,
+"gender": "male",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]   3 
+},
+{
+"brand": "Comfy Jens",
+"product_name": "Jeans",
+"ratings": 5,
+"price": 54,
+"gender": "Male",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]4
+},
+{
+"brand": "Cute funky Jeans",
+"product_name": "Jeggings",
+"ratings": 5,
+"price": 73,
+"gender": "male",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]5
+
+},
+{
+"brand": "Cutiepie",
+"product_name": "Boyz Trackpants",
+"ratings": 5,
+"price": 39,
+"gender": "Female",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]6
+
+},
+{
+"brand": "Stylus",
+"product_name": "Boys Trackpants",
+"ratings": 5,
+"price": 51,
+"gender": "male",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]7
+
+},
+{
+"brand": "Modern Trendy",
+"product_name": "Pants",
+"ratings": 5,
+"price": 59,
+"gender": "male",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]8
+},
+{
+    "brand": "Fashion",
+    "product_name": "Frock",
+    "ratings": 5,
+    "price": 34,
+    "gender": "Female",
+    "img": "image",
+    "sizes": ["S", "M", "XL", "XXL"]   1
+    
+},
+{
+"brand": "Traditional",
+"product_name": "Choli",
+"ratings": 5,
+"price": 72,
+"gender": "Female",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]   2
+
+},
+{
+"brand": "Girly",
+"product_name": "Medi",
+"ratings": 5,
+"price": 17,
+"gender": "Female",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]   3 
+},
+{
+"brand": "Eye bloger",
+"product_name": "Skirts",
+"ratings": 5,
+"price": 24,
+"gender": "Female",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]4
+},
+{
+"brand": "Cutie",
+"product_name": "Lehengas",
+"ratings": 5,
+"price": 37,
+"gender": "Female",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]5
+
+},
+{
+"brand": "Styluz",
+"product_name": "Traditinal wear",
+"ratings": 5,
+"price": 67,
+"gender": "Female",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]6
+
+},
+{
+"brand": "Trendz",
+"product_name": "Frocks",
+"ratings": 5,
+"price": 31,
+"gender": "Female",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]7
+
+},
+{
+"brand": "Jivika",
+"product_name": "Kurtis",
+"ratings": 5,
+"price": 40,
+"gender": "Female",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]8
+},
+{
+    "brand": "Western",
+    "product_name": "Frocks",
+    "ratings": 5,
+    "price": 34,
+    "gender": "Female",
+    "img": "image",
+    "sizes": ["S", "M", "XL", "XXL"]   1
+    
+},
+{
+"brand": "Casual kurta",
+"product_name": "Kurtas",
+"ratings": 5,
+"price": 52,
+"gender": "Female",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]   2
+
+},
+{
+"brand": "Tinkle",
+"product_name": "Lehanga",
+"ratings": 5,
+"price": 87,
+"gender": "Female",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]   3 
+},
+{
+"brand": "Graceful",
+"product_name": "Pretty gown",
+"ratings": 5,
+"price": 94,
+"gender": "Female",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]4
+},
+{
+"brand": "Cutie",
+"product_name": "Lehengas",
+"ratings": 5,
+"price": 37,
+"gender": "Female",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]5
+
+},
+{
+"brand": "Awesome",
+"product_name": "Ethnic gowns",
+"ratings": 5,
+"price": 47,
+"gender": "Female",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]6
+
+},
+{
+"brand": "Princess",
+"product_name": "Frocks",
+"ratings": 5,
+"price": 71,
+"gender": "Female",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]7
+
+},
+{
+"brand": "Cutiepie",
+"product_name": "Dresses",
+"ratings": 5,
+"price": 81,
+"gender": "Female",
+"img": "image",
+"sizes": ["S", "M", "XL", "XXL"]8
+},
+
+
+
+
+]
